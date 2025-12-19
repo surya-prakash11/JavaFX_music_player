@@ -2,6 +2,8 @@
 
 A modern desktop music player with playlist management, built with JavaFX and SQLite.
 
+Collaborators: UdontKnowMe-git, Leoneix, harshas60
+
 ## ✨ Features
 - 🎶 Play/pause with time display (00:00 / 03:45)
 - ⏭️ Next/previous track navigation
@@ -52,4 +54,5 @@ music-player/
 
 ## 📝 License
 MIT License - Feel free to modify and use!
+
 
